@@ -1,0 +1,16 @@
+{
+  "name": "SnailPad 4",
+  "vendorId": "0x5344",
+  "productId": "0x5334",
+  "matrix": {"rows": 2, "cols": 2},
+  "layouts": {"keymap": [
+    [
+      "0,0",
+      "1,0"
+    ],
+    [
+      "0,1",
+      "1,1"
+    ]
+  ]}
+}
