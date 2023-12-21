@@ -1,0 +1,33 @@
+{
+  "name": "SnailPad 9",
+  "vendorId": "0x5344",
+  "productId": "0x5335",
+  "matrix": {"rows": 4, "cols": 3},
+  "keycodes": ["qmk_lighting"],
+  "menus": ["qmk_rgblight"],
+  "layouts": {"keymap": [
+    [
+      [
+        {
+          "x": 2
+        },
+        "MUTE"
+      ],
+      [
+        "1",
+        "2",
+        "3"
+      ],
+      [
+        "4",
+        "5\n↑",
+        "6"
+      ],
+      [
+        "7\n←",
+        "8",
+        "9\n→"
+      ]
+    ]
+  ]}
+}
