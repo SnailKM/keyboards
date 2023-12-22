@@ -4,10 +4,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-package-lock.json
-
-yarn.lock
+build-error.log*
 
 # Runtime data
 pids
@@ -60,6 +57,7 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+yarn.lock
 
 # dotenv environment variables file
 .env
